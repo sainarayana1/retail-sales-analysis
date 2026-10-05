@@ -1,0 +1,5 @@
+Ship_Mode,avg_ship_days,orders
+Same Day,1.0,517
+First Class,3.0,1508
+Second Class,4.0,2037
+Standard Class,6.0,5938
